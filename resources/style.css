@@ -1,7 +1,29 @@
+* {
+	margin:0;
+	padding:0;
+	border:none;
+}
+
 body {
 }
 
+h1 {
+	font-size:3em;
+	/*add font family later*/
+}
+
 #title {
-	float:center;
-	color:blue;
+	text-align:center;
+}
+
+#navbar {
+
+}
+
+#navbar li {
+	text-align:center;
+	display:inline;
+	list-style-type: none;
+	width:33%;
+	float:left;
 }
