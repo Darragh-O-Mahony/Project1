@@ -38,6 +38,27 @@ h1 {
 	font-weight:bold;
 }
 
-footer{
+#left {
+	float:left;
+	width:30%;
+	padding:0.5%;
+}
 
+#middle {
+	float:left;
+	width:30%;
+	padding:0.5%;
+}
+
+#right{
+	float:left;
+	width:30%;
+	padding:0.5%;
+}
+
+footer{
+	background-color:blue;
+	position:fixed;
+	bottom:0;
+	width:100%;
 }
