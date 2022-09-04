@@ -24,7 +24,7 @@ h1 {
 	text-align:center;
 	display:inline;
 	list-style-type: none;
-	width:33%;
+	width:33.33%;
 	float:left;
 }
 
@@ -36,4 +36,8 @@ h1 {
 #navbar a:hover {
 	border-bottom:1px solid blue;
 	font-weight:bold;
+}
+
+footer{
+
 }
